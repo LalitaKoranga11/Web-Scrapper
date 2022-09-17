@@ -13,3 +13,5 @@ Step2: Download the corresponding driver version from https://chromedriver.chrom
 Step3: Modify the driver path in code 
 
 Step4: Run as Java Project
+
+Step5: Finish
